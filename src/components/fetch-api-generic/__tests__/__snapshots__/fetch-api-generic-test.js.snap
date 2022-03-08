@@ -1,0 +1,30 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`PostList Snapshots error renders correctly 1`] = `
+<p>
+  ERROR: 
+  General Error
+</p>
+`;
+
+exports[`PostList Snapshots loading renders correctly 1`] = `
+<p>
+  loading..
+</p>
+`;
+
+exports[`PostList Snapshots success renders correctly 1`] = `
+Array [
+  <p>
+    Data:
+  </p>,
+  <ul>
+    <li>
+      Hello
+    </li>
+    <li>
+      World
+    </li>
+  </ul>,
+]
+`;

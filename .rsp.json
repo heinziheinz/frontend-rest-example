@@ -1,0 +1,55 @@
+{
+    "engine": {
+        "launchOptions": {
+            "args": [
+                "--no-sandbox",
+                "--disable-setuid-sandbox",
+                "--disable-web-security"
+            ],
+            "product": "chrome",
+            "headless": true,
+            "ignoreHTTPSErrors": true
+        }
+    },
+    "routes": [
+        "/",
+        "/gesundheitsratgeber/1",
+        "/gesundheitsratgeber/2",
+        "/gesundheitsratgeber/3",
+        "/gesundheitsratgeber/4",
+        "/gesundheitsratgeber/5",
+        "/gesundheitsratgeber/6",
+        "/gesundheitsratgeber/7",
+        "/gesundheitsratgeber/8",
+        "/impressum",
+        "/kontakt",
+        "/business/aertze",
+        "/datenschutz",
+        "/agb",
+        "/ratgeber/mediadaten-tarife",
+        "/prime-doctor/1",
+        "/prime-doctor/2",
+        "/prime-doctor/3",
+        "/prime-doctor/4",
+        "/prime-doctor/5",
+        "/prime-doctor/6",
+        "/prime-doctor/7",
+        "/prime-doctor/8",
+        "/prime-doctor/9",
+        "/prime-doctor/10",
+        "/prime-doctor/11",
+        "/prime-doctor/12",
+        "/prime-doctor/13",
+        "/prime-doctor/14",
+        "/prime-doctor/15",
+        "/prime-doctor/16",
+        "/prime-doctor/17",
+        "/prime-doctor/18",
+        "/prime-doctor/19",
+        "/prime-doctor/20",
+        "/prime-doctor/21",
+        "/prime-doctor/22",
+        "/prime-doctor/23",
+        "/prime-doctor/24"
+    ]
+}

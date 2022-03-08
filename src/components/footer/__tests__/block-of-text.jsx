@@ -1,0 +1,3 @@
+export const BlockOfText = {
+    text: "Als Betreiber von DocFinder unterstützen wir den freien Informations- und Meinungsaustausch und lehnen den Missbrauch unserer Plattform (z.B. zur Darstellungen falscher Tatsachenbehauptungen oder Beleidigungen von ÄrztInnen) kategorisch ab. Dies ist auch in unseren - auf DocFinder veröffentlichten -allgemeinen Geschäftsbedingungen verankert, an die alle NutzerInnen gebunden sind."
+}

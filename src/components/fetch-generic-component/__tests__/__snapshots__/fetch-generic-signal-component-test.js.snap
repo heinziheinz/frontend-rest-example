@@ -1,0 +1,13 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<FetchGenericComponent FetchGerenricComponent did mount 1`] = `
+<div
+  className="App"
+>
+  <div>
+    <h3>
+      sweet error
+    </h3>
+  </div>
+</div>
+`;
